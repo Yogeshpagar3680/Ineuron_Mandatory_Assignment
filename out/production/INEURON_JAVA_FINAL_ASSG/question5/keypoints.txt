@@ -1,0 +1,21 @@
+**********| DIFFERENCE BETWEEN ABSTRACT CLASS AND INTERFACE |**********
+
+1 -> We cannota achieve multiple inheritance by using abstract class
+
+     whereas we can achieve multiple inheritance by using interface
+
+
+2-> In abstract class all the methods need not to be public and abstract.
+    i.e. Abstract class can have normal methods also
+
+    whereas in interface all the methods should be public and abstract except default and static method.
+
+
+3-> In an abstract class we can have constructor
+
+    whereas we cannot have constructor in an interface
+
+
+4-> All the variables are not public static final
+
+    whereas all the variables are compulsory public static final
